@@ -1,0 +1,11 @@
+.make-red {
+  color: red;
+}
+
+.card {
+  padding: 15px;
+  background-color: white;
+  box-shadow: 10px 10px 15px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+}
